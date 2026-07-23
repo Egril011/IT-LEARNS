@@ -3,6 +3,13 @@
 
 #macOS / Windows system files
 .DS_Store
+._*
+.AppleDouble
+.LSOverride
+.Spotlight-V100/
+.Trashes/
+.fseventsd/
+.TemporaryItems/
 Thumbs.db
 desktop.ini
 
@@ -79,7 +86,9 @@ Plugins/**/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-Content/__ExternalActors__/
-Content/__ExternalObjects__/
-
+# Ignore all Unreal asset content
 Content/*
+
+# Ignore all project plugins
+# RiderLink and other local/editor plugins should not be pushed
+Plugins/*
