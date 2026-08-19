@@ -26,5 +26,13 @@ public:
 		); 
 	
 protected: 
+	virtual void BeginPlay() override;
 	virtual bool CanActivateFeature() const ;
+	
+	ACharacter* GetOwningCharacter() const {return OwningCharacter;};
+	
+private:
+	//Thanks to child class, which gets the owner, we can share it to other children class
+	UPROPERTY()
+	TObjectPtr<ACharacter> OwningCharacter;
 };

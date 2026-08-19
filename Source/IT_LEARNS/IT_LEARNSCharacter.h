@@ -7,6 +7,7 @@
 #include "Logging/LogMacros.h"
 #include "IT_LEARNSCharacter.generated.h"
 
+class ULeanFeatureComponent;
 class UInputComponent;
 class USkeletalMeshComponent;
 class UCameraComponent;
@@ -67,5 +68,9 @@ public:
 	/** Returns FirstPersonCameraComponent subobject **/
 	UCameraComponent* GetFirstPersonCameraComponent() const { return FirstPersonCameraComponent; }
 
+private:
+	/*Lean Features*/
+	UPROPERTY(EditAnywhere,BlueprintReadOnly, Category="Lean", meta=(AllowPrivateAccess="true"))
+	TObjectPtr<USceneComponent> LeanPivot; 
 };
 

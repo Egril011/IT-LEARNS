@@ -21,7 +21,10 @@ public:
 	
 	virtual void BeginPlay() override;
 	
+	UFUNCTION(BlueprintCallable)
 	bool TryActivateFeature(EMovementFeature MovementFeature);
+	
+	UFUNCTION(BlueprintCallable)
 	bool TryDeactivateFeature(EMovementFeature MovementFeature);
 	bool IsFeatureActivated(EMovementFeature MovementFeature) const;
 

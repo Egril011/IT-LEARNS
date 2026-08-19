@@ -2,10 +2,21 @@
 
 
 #include "MovementFeatureComponent.h"
+#include "GameFramework/Character.h"
 
 // Sets default values for this component's properties
 UMovementFeatureComponent::UMovementFeatureComponent()
 {
+}
+
+void UMovementFeatureComponent::BeginPlay()
+{
+	Super::BeginPlay();
+	
+	if (!IsValid(GetOwner()))
+		return;
+	
+	OwningCharacter = Cast<ACharacter>(GetOwner());
 }
 
 bool UMovementFeatureComponent::CanActivateFeature() const
