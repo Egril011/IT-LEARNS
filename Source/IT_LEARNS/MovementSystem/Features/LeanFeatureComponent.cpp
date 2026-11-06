@@ -16,11 +16,11 @@ void ULeanFeatureComponent::BeginPlay()
 {
 	Super::BeginPlay();
 
-	ACharacter* OwningCharacter = GetOwningCharacter();
-	if (!IsValid(OwningCharacter))
+	ACharacter* Character = GetOwningCharacter();
+	if (!IsValid(Character))
 		return;
 	
-	OwningCameraComponent = OwningCharacter->FindComponentByClass<UCameraComponent>();
+	OwningCameraComponent = Character->FindComponentByClass<UCameraComponent>();
 }
 
 void ULeanFeatureComponent::SetLeanPivot(USceneComponent* LeanPivot)

@@ -15,28 +15,94 @@
   <component name="ChangeListManager">
     <list default="true" id="23f67e11-0d16-4d90-a9e1-0eb21c1261f1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.IT_LEARNS.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.IT_LEARNS.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.IT_LEARNS/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.IT_LEARNS/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.IT_LEARNS/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.IT_LEARNS/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.IT_LEARNS/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.IT_LEARNS/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.IT_LEARNS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.IT_LEARNS/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultEditor.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEditor.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/IT_LEARNS/IT_LEARNSCharacter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/IT_LEARNS/IT_LEARNSCharacter.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/IT_LEARNS/IT_LEARNSCharacter.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/IT_LEARNS/IT_LEARNSCharacter.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/IT_LEARNS/MovementSystem/MovementFeatureComponent.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/IT_LEARNS/MovementSystem/MovementFeatureComponent.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/IT_LEARNS/MovementSystem/MovementFeatureComponent.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/IT_LEARNS/MovementSystem/MovementFeatureComponent.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/IT_LEARNS/MovementSystem/MovementFeatureManager.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/IT_LEARNS/MovementSystem/MovementFeatureManager.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultInput.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultInput.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IT_LEARNS.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/IT_LEARNS.uproject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/IT_LEARNS/MovementSystem/Features/LeanFeatureComponent.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/IT_LEARNS/MovementSystem/Features/LeanFeatureComponent.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DpaMonitoringSettings">
+    <option name="firstShow" value="false" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="7341" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://E:/UE_Version/UE_5.5/Engine/Source/Runtime/Engine/Classes/Components/ActorComponent.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/UE_Version/UE_5.5/Engine/Source/Runtime/VectorVM/Private/VectorVMPrivate.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/IT_LEARNS/IInteractable.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/IT_LEARNS/UInteractionComponent.h" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.338597736287855" />
+      <entry key="MS500" value="2.8163405164577213" />
+      <entry key="S2" value="4.610412385045944" />
+      <entry key="S5" value="5.358907034684889" />
+      <entry key="S10" value="5.662921859832211" />
+      <entry key="S30" value="5.883761273784775" />
+      <entry key="S60" value="5.9525662487144695" />
+      <entry key="M2" value="6.1588980515860055" />
+      <entry key="M5" value="7.32079444670347" />
+      <entry key="M10" value="11.366536404676994" />
+      <entry key="M15" value="21.947701459562282" />
+      <entry key="M30" value="81.58519280549741" />
+      <entry key="H1" value="195.289832736914" />
+      <entry key="H2" value="313.92478809190817" />
+      <entry key="H4" value="401.1437038923931" />
+      <entry key="D1" value="493.8422391362281" />
+      <entry key="W1" value="511.9190667653588" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="2.873511211443244E-239" />
+      <entry key="S2" value="2.3152784206479705E-60" />
+      <entry key="S5" value="1.3990759449277408E-24" />
+      <entry key="S10" value="1.1828254076268994E-12" />
+      <entry key="S30" value="1.0575646371811673E-4" />
+      <entry key="S60" value="0.010289943813466729" />
+      <entry key="M2" value="0.10640337646892695" />
+      <entry key="M5" value="0.7366765276708398" />
+      <entry key="M10" value="3.502799203609479" />
+      <entry key="M15" value="8.948475636139179" />
+      <entry key="M30" value="30.120674256569572" />
+      <entry key="H1" value="61.214780325651056" />
+      <entry key="H2" value="89.48706461352319" />
+      <entry key="H4" value="108.87103534501351" />
+      <entry key="D1" value="128.59915812474478" />
+      <entry key="W1" value="132.36128503888332" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.2720966894791064" />
+      <entry key="MS500" value="2.7856290528181504" />
+      <entry key="S2" value="4.597384152805742" />
+      <entry key="S5" value="5.352774243237998" />
+      <entry key="S10" value="5.659666573883325" />
+      <entry key="S30" value="5.882727227504885" />
+      <entry key="S60" value="5.961752899799965" />
+      <entry key="M2" value="6.261687406698459" />
+      <entry key="M5" value="8.046121496770978" />
+      <entry key="M10" value="14.842606176343434" />
+      <entry key="M15" value="30.8540322883705" />
+      <entry key="M30" value="111.64313209075944" />
+      <entry key="H1" value="256.44529487959323" />
+      <entry key="H2" value="403.37006653146136" />
+      <entry key="H4" value="509.9897840779238" />
+      <entry key="D1" value="622.4365586766525" />
+      <entry key="W1" value="644.2796422024721" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5,
@@ -56,6 +122,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Uproject.IT_LEARNS.executor": "Run",
     "cidr.known.project.marker": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
@@ -209,6 +276,14 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration default="true" type="Uproject" factoryName="rider.uproject">
+      <option name="DEFAULT_PROJECT_PATH" value="" />
+      <option name="PROJECT_FILE_PATH" value="" />
+      <option name="AUTO_SELECT_PRIORITY" value="0" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -217,7 +292,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1784810464780</updated>
-      <workItem from="1787155551037" duration="1089000" />
+      <workItem from="1787155551037" duration="1497000" />
+      <workItem from="1787697280921" duration="112000" />
+      <workItem from="1787873520840" duration="316000" />
+      <workItem from="1793121500197" duration="625000" />
+      <workItem from="1793993454644" duration="7407000" />
     </task>
     <servers />
   </component>
@@ -225,6 +304,17 @@
     <option name="version" value="3" />
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
